@@ -1,0 +1,114 @@
+<html>
+    <head>
+        <title>
+            Instituto de Bachillerato
+        </title>
+    </head>
+    <body>
+        <h3>
+            Instituto de Bachillerato
+        </h3>
+        <h4>
+            Gobierno de Moderdonia
+        </h4>
+        <p><mark>
+            No puedo enseñar a nadie. Solo puedo hacerles pensar. (Sócrates)
+        </p></mark>
+        <ul>
+            <li> <a href="https://www.cpifppiramide.com">Presentación del centro</a></li>
+            <li> <a href="https://www.cpifppiramide.com/descargas_pdf/ofertaFormativa.pdf">Estudios reglados</a></li>
+        <ul>
+            <li> <a href="https://www.cpifppiramide.com/oferta-formativa/grado-medio-3">Bachillerato de ciencias</a></li>
+            <li> <a href="https://www.cpifppiramide.com/oferta-formativa/grado-superior-4">Bachillerato de humanidades</a></li>
+        </ul>
+            <li> <a href="https://www.cpifppiramide.com/InfoBasica">Equipo directivo</a></li>
+        </ul>
+        <h3> 
+            Nuestro Instituto
+        </h3>
+        <img src ="data:image/jpeg;base64,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">
+        <p>
+            Bienvenidos al CPIFP Pirámide 
+        </p>
+        <p><b>
+            Temario de primero de bachillerato
+        </p></b>
+        <dt>
+            Lengua
+            <dd>Literatura de Quevedo</dd>
+            <dd>Analizar oraciones</dd>
+        </dt>
+        <dt>
+            Matemáticas
+            <dd>Discutir sistemas de equaciones</dd>
+            <dd>Integrales y derivadas</dd>
+        </dt>
+        <h3><b>
+            Noticias del instituto
+        </h3></b>
+        <p>
+            En el primer recreo <i>flour para todos</i>
+        </p>
+        <h3>
+            Anuncios del instituto
+        </h3>
+        <p>
+            Selectividad se celebrará el <b>10 de junio de 2018</b>
+        </p>
+        <h3><b>
+            Horario de clase
+        </h3></b>
+        <table>
+            <tr>
+              <th>Hora</th>
+              <th>Lunes</th>
+              <th>Martes</th>
+            </tr>
+            <tr>
+              <td>Primera</td>
+              <td>AS01</td>
+              <td>AS07</td>
+            </tr>
+            <tr>
+              <td>Segunda</td>
+              <td>AS02</td>
+              <td>AS08</td>
+            </tr>
+            <tr>
+                <td>Tercera</td>
+                <td>AS03</td>
+                <td>AS09</td>
+              </tr>
+              <tr>
+                <td>Cuarta</td>
+                <td>AS04</td>
+                <td>AS10</td>
+              </tr>
+              <tr>
+                <td>Quinta</td>
+                <td>AS05</td>
+                <td>AS11</td>
+              </tr>
+              <tr>
+                <td>Sexta</td>
+                <td>AS06</td>
+                <td>AS12</td>
+              </tr>
+          </table>
+          <h3>
+            Primera Evaluación
+          </h3>
+          <p><del>
+            10 de diciembre
+          </p></del>
+          <p>
+            Fechas primera evalución
+          </p>
+          <p>
+            10 de diciembre
+          </p>
+          <p>
+            Teléfono: 978398747474 <a href="https://www.cpifppiramide.com/contacto">Email del centro</a>
+          </p>
+    </body>
+</html>
