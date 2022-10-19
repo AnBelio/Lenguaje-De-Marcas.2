@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<html>
+    <head>
+        <title>
+            Formulario
+        </title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td>
+                    <p>
+                        <u>Registro:_________</u><br>
+                        <br>Nombre:
+                        <br><input type="text" name="Nombre"/>
+                        <br>Apellidos:
+                        <br><input type="text" name="Apellidos"/>
+                        <br>Fecha de nacimiento:
+                        <br><input type="date" value="2017-06-01"/>
+                        <br><b>Color favorito:</b>
+                        <input type="color"/>
+                        <br><b>Género:</b>
+                        <select name="select">
+                            <option value="Mujer">Mujer</option>
+                            <option value="Hombre">Hombre</option>
+                            <option value="Otro">Otro</option>
+                        </select>
+                        <br><b>Rol</b>
+                        <br/>
+                            <input name="Profesor" type="checkbox"/>Profesor
+                        </br>
+                            <input name="Estudiante" type="checkbox"/>Estudiante
+                        </br>
+                            <input name="Otro" type="checkbox"/>Otro
+                        </br>
+                            <input type="text" name="name" placeholder="Escriba su texto aquí"></br>
+                            <input type="submit" value="enviar"></br></br></br>
+
+                        Login:</br>
+                        <br><b>Usuario</b>
+                        <br><input type="text" name="Usuario"/>
+                        <br><b>Password</b>
+                        <br><input type="text" name="Password"/></br>
+                        <input type="submit" value="Enviar"/>
+                    </p>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
